@@ -50,6 +50,9 @@ button:hover {
         margin: auto;
         padding: auto;
     }
+    ul{
+        font-size: 0.5em;
+    }
 
     h1 {
         font-size: 1.6em;
