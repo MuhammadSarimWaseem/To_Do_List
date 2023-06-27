@@ -46,7 +46,7 @@ button:hover {
 
 @media (max-width:746px) {
     body {
-        font-size: 2em;
+        font-size: 0.5em;
         margin: auto;
         padding: auto;
     }
