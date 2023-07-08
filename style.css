@@ -29,7 +29,11 @@ input {
     width: 500px;
     height: 40px;
     margin-bottom: 200px;
-    font-size: 1.2em;
+    font-size: 1em;
+}
+
+.list {
+    padding-bottom: 30px;
 }
 
 button {
@@ -50,7 +54,8 @@ button:hover {
         margin: auto;
         padding: auto;
     }
-    ul{
+
+    ul {
         font-size: 0.5em;
     }
 
